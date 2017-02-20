@@ -17,3 +17,6 @@ Links that I read
 
 ### February 10, 2017
 - [ReactJS: From upside down to right side up! // Speaker Deck](https://speakerdeck.com/pedronauck/reactjs-from-upside-down-to-right-side-up) 
+
+### February 20, 2017
+- [kdeldycke/awesome-falsehood: Curated list of falsehoods programmers believe in.](https://github.com/kdeldycke/awesome-falsehood) 
