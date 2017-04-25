@@ -23,3 +23,6 @@ Links that I read
 
 ### March 10, 2017
 - [wooorm (Titus)](https://github.com/wooorm) 
+
+### April 25, 2017
+- [docs: how to use with koa@2 in readme · koajs/bodyparser@2245bd2](https://github.com/koajs/bodyparser/commit/2245bd206f42b44c8b6257ea77100ebc4e2276d6) 
